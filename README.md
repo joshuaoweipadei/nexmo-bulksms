@@ -1,6 +1,6 @@
 # React + Node.js - Bulk SMS App with Nexmo API
 
-#### Setup
+### Setup
 
 Install dependencies
 
